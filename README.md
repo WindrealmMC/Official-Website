@@ -1,4 +1,4 @@
-# 风绘之境 - Windrealm Minecraft服务器
+# 风绘之境 - Windrealm MC 官网
 
 ## 简介
 
